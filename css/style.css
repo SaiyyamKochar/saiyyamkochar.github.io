@@ -816,7 +816,7 @@ footer img {
 }
 .wrap {
 
-    font-size: 15px;
+    font-size: 17px;
     position: relative;
     top: 5px;
     font-family: Poppins ;
@@ -1316,9 +1316,36 @@ figure.effect-romeo:hover p {
 
 
 
+.main_homepage_content .home_title {
+  color: #487eb0;
+  width: 100%;
+  text-align: center;
+  font-family: "Poppins";
+  font-size: 30pt;
+  margin-top: 40px;
+  margin-bottom: 25px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 600; 
+}
 
+.main_homepage_content .home_desc {
+  color: #487eb0;
+  font-family: "Poppins";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 14pt;
+  line-height: 1.7em;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
 
+.main_homepage_content .home_pic {
+  width: 300px;
+  border-radius: 100%;
+  margin-top: 60px;
+}
 
-
-
-
+.main_homepage_content .home_btns {
+  margin-top: 20px;
+}
